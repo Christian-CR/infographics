@@ -1,0 +1,10 @@
+/* mixins */
+
+@mixin bordeRedondo{
+	border-radius: 50%;
+	-webkit-border-radius: 50%;
+}
+@mixin centrar{
+	top: 50%;
+	left: 50%;
+}
